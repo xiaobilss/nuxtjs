@@ -1,0 +1,51 @@
+[
+  {
+    "path": "/",
+    "component": "D:\\\\vue3\\\\nuxtjs\\\\pages\\\\layout",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "D:\\\\vue3\\\\nuxtjs\\\\pages\\\\home",
+        "_name": "_9b6e6a44"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "D:\\\\vue3\\\\nuxtjs\\\\pages\\\\login",
+        "_name": "_d1ee4d6c"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "D:\\\\vue3\\\\nuxtjs\\\\pages\\\\login",
+        "_name": "_d1ee4d6c"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "D:\\\\vue3\\\\nuxtjs\\\\pages\\\\profile",
+        "_name": "_5d43016c"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "D:\\\\vue3\\\\nuxtjs\\\\pages\\\\settings",
+        "_name": "_289d0abc"
+      },
+      {
+        "path": "/editor",
+        "name": "editor",
+        "component": "D:\\\\vue3\\\\nuxtjs\\\\pages\\\\editor",
+        "_name": "_3d8673ac"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "D:\\\\vue3\\\\nuxtjs\\\\pages\\\\article",
+        "_name": "_8fae7ad2"
+      }
+    ],
+    "_name": "_49554d69"
+  }
+]
